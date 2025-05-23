@@ -10,5 +10,4 @@ psutil
 aiohttp
 faker
 asyncio
-socket
 yt_dlp
