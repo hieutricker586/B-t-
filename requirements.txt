@@ -11,3 +11,4 @@ aiohttp
 faker
 asyncio
 yt_dlp
+pycountry
