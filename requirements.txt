@@ -1,0 +1,14 @@
+requests
+tqdm
+colorama
+pystyle
+urllib3
+telebot
+pytz
+bs4
+psutil
+aiohttp
+faker
+asyncio
+socket
+yt_dlp
