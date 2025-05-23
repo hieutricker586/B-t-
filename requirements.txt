@@ -12,3 +12,4 @@ faker
 asyncio
 yt_dlp
 pycountry
+schedule
