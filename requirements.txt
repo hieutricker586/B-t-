@@ -7,3 +7,4 @@ telebot
 pytz
 bs4
 psutil
+gtts
